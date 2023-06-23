@@ -1,0 +1,11 @@
+.map-menu {
+    position: absolute;
+    top: 10px; /* Adjust as needed */
+    left: 10px; /* Adjust as needed */
+    z-index: 1;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    /* Additional styling as needed */
+  }
+  
